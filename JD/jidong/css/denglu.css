@@ -1,0 +1,297 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+.b1{
+	width: 100%;
+	height: 60px;
+	margin: 10px 0px;
+}
+.t1{
+	width: 170px;
+	height: 60px;
+	background-image: url(../img/jingdong02.png);
+	margin-left: 136px;
+}
+.t2{
+	width: 110px;
+	height: 40px;
+	background-image: url(../img/jingdong03.png);
+	float: left;
+	margin-left: 325px;
+	margin-top: -40px;
+}
+.t3{
+	width: 18px;
+	height: 14px;
+	margin: 0px 5px;
+	background-image: url(../img/jingdong04.png);
+	margin-left: 1000px;
+	margin-top: -14px;
+}
+.t4{
+	width: 108px;
+	height: 18px;
+	margin-left: 1025px;
+	font-size: 12px;
+	margin-top: -16px;
+	cursor: pointer;
+}
+.t4 font:hover{
+	color: red;
+	text-decoration: underline;
+}
+.b2{
+	width: 1263.330px;
+	height: 18.552px;
+	padding: 10px 0px;
+	margin: 0 auto;
+	background-color: #fff8f0;
+}
+.t5{
+	width: 16px;
+	height: 16px;
+	background-image: url(../img/jingdong05.png);
+	margin-left: 236px;
+}
+.t6{
+	width: 771.344px;
+	height: 18px;
+	color: #999999;
+	font-size: 12px;
+	margin-left: 256px;
+	margin-top: -16px;
+}
+.b3{
+	width: 100%;
+	height: 475px;
+	background-color: #a50000;
+}
+.t7{
+	width: 990px;
+	height: 475px;
+	background-image: url(../img/jingdong.jpg);
+	margin-left: 136px;
+}
+.t8{
+	width: 346px;
+	height: 427.219px;
+	background: #ffffff;
+	float: left;
+	margin-left: 780px;
+	margin-top: -460px;
+}
+.t9{
+	width: 346px;
+	height: 18.55px;
+	padding: 10px 0px;
+	background: #FFF8F0;
+}
+.t10{
+	width: 16px;
+	height: 16px;
+	background-image: url(../img/jingdong05.png);
+	margin-left: 30px;
+}
+.t11{
+	width: 264px;
+	height: 18px;
+	color: #999999;
+	font-size: 12px;
+	font-family: "宋体";
+	margin-left: 50px;
+	margin-top: -14px;
+}
+.t12{
+	width: 306px;
+	height: 270px;
+	padding: 20px 20px;
+}
+.t13{
+	width: 100%;
+	height: 55px;
+	font-size: 18px;
+	font-family: "microsoft yahei";
+	color: #666666;
+	cursor: pointer;
+	text-align: center;
+	margin-top: -24px;
+	line-height: 55px;
+	border-bottom: 1px solid #f4f4f4;
+}
+.t13:hover{
+	color: red;
+}
+.t14{
+	width: 254px;
+	height: 18px;
+	margin-top: 30px;
+	padding: 10px 0px 10px 50px;
+	border-top: 1px solid #b6b6b6;
+	border-left: 1px solid #b6b6b6;
+	border-right: 1px solid #B6B6B6;
+	border-bottom: 1px solid #b6b6b6;
+}
+.t14 input{
+	border: none;
+	outline: medium;
+}
+.t15{
+	width: 39px;
+	height: 38px;
+	background-image: url(../img/jingdong06.png);
+	margin-top: -31px;
+	margin-left: -50px;
+	border-right: 1px solid #B6B6B6;
+}
+.t16{
+	width: 254px;
+	height: 18px;
+	margin-top: 30px;
+	padding: 10px 0px 10px 50px;
+	border-top: 1px solid #b6b6b6;
+	border-left: 1px solid #b6b6b6;
+	border-right: 1px solid #B6B6B6;
+	border-bottom: 1px solid #b6b6b6;
+}
+.t16 input{
+	border: none;
+	outline: medium;
+}
+.t17{
+	width: 39px;
+	height: 38px;
+	background-image: url(../img/jingdong07.png);
+	margin-top: -31px;
+	margin-left: -50px;
+	border-right: 1px solid #B6B6B6;
+}
+.t18{
+	width: 48px;
+	height: 14px;
+	color: #666666;
+	font-size: 12px;
+	font-family: "宋体";
+	cursor: pointer;
+	margin-left: 256px;
+	margin-top: 30px;
+}
+.t18:hover{
+	color: red;
+	text-decoration: underline;
+}
+.t19{
+	width: 302px;
+	height: 31px;
+	background: #E4393c;
+	border: 1px solid #e85356;
+	line-height: 31px;
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+	margin-top: 20px;
+	cursor: pointer;
+}
+.t20{
+	width: 302px;
+	height: 50px;
+	padding: 0px 20px;
+	border-top: 1px solid #B6B6B6;
+}
+.t21{
+	width: 40px;
+	height: 34px;
+	background-image: url(../img/jingdong10.png);
+	margin-top: 20px;
+}
+.t22{
+	width: 19px;
+	height: 14px;
+	color: #666666;
+	font-size: 18px;
+	font-family: "宋体";
+	text-align: center;
+	cursor: pointer;
+	margin-left: 46px;
+	margin-top: -26px;
+}
+.t22:hover{
+	color: red;
+	text-decoration: underline;
+}
+.t23{
+	width: 40px;
+	height: 34px;
+	background-image: url(../img/jingdong11.png);
+	margin-left: 72px;
+	margin-top: -16px;
+}
+.t24{
+	width: 30px;
+	height: 14px;
+	color: #666666;
+	font-size: 14px;
+	font-family: "宋体";
+	text-align: center;
+	cursor: pointer;
+	margin-left: 120px;
+	margin-top: -25px;
+}
+.t24:hover{
+	color: red;
+	text-decoration: underline;
+}
+.t25{
+	width: 32px;
+	height: 32px;
+	background-image: url(../img/jingdong09.png);
+	margin-left: 220px;
+	margin-top: -24px;
+}
+.t26{
+	width: 60px;
+	height: 30px;
+	font-size: 14px;
+	font-family: "宋体";
+	margin-left: 252px;
+	margin-top: -22px;
+	color: #b61d1d;
+	cursor: pointer;
+}
+.t26 a{
+	color: #B61D1D;
+	text-decoration: none;
+}
+.t26:hover{
+	text-decoration: underline;
+}
+.b4{
+	width: 1200px;
+	height: 18px;
+	text-align: center;
+	margin: 20px 30px 0px 24px;
+}
+.b4 a{
+	width: 51.34px;
+	height: 13.33px;
+	font-size: 12px;
+	font-family: "宋体";
+	color: #666666;
+	margin: 13.33px 10px;
+	text-decoration: none;
+	cursor: pointer;
+}
+.b4 a:hover{
+	text-decoration: underline;
+	color: red;
+}
+.b5{
+	width: 990px;
+	height: 18px;
+	text-align: center;
+	margin: 20px auto;
+	font-size: 14px;
+	font-family: "宋体";
+	color: #666666;
+}

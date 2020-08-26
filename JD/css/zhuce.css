@@ -1,0 +1,262 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+/*导航栏开始*/
+.z1{
+	width: 100%;
+	height: 90px;
+	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+.a1{
+	width: 170px;
+	height: 60px;
+	background-image: url(../img/jingdong02.png);
+	margin-left: 28px;
+}
+.a2{
+	width: 96px;
+	height: 34px;
+	float: left;
+	margin-left: 220px;
+	margin-top: -36px;
+	color: #333333;
+	font-size: 24px;
+	font-family: tahoma;
+}
+.a3{
+	width: 145px;
+	height: 21px;
+	color: #999999;
+	font-size: 16px;
+	font-family: tahoma;
+	float: right;
+	margin-right: 20px;
+	margin-top: -10px;
+}
+.a3 a{
+	color: #e12222;
+	font-size: 16px;
+	font-family: tahoma;
+	text-decoration: none;
+	cursor: pointer;
+}
+.a3 a:hover{
+	text-decoration: underline;
+}
+/*导航栏结束*/
+/*步骤开始*/
+.z2{
+	width: 800px;
+	height: 54.667px;
+	margin: 80px 180px 0px 340px;
+}
+.a4{
+	width: 43px;
+	height: 43px;
+	background-image: url(../img/jingdong12.png);
+}
+.a5{
+	width: 60px;
+	height: 20px;
+	color: #33bb44;
+	font-size: 12px;
+	font-family: tahoma;
+	position: relative;
+	top: 50px;
+	left: -6px;
+}
+.a6{
+	width: 197px;
+	height: 29px;
+	background-image: url(../img/jingdong13.png);
+	margin-top: -36px;
+	margin-left: 50px;
+}
+.a7{
+	width: 43px;
+	height: 43px;
+	background-image: url(../img/jingdong14.png);
+	margin-left: 240px;
+	margin-top: -34px;
+}
+.a8{
+	width: 197px;
+	height: 29px;
+	background-image: url(../img/jingdong13.png);
+	margin-top: -36px;
+	margin-left: 284px;
+}
+.a9{
+	width: 72px;
+	height: 20px;
+	color: #999999;
+	font-size: 12px;
+	font-family: tahoma;
+	position: relative;
+	top: 42px;
+	left: -54px;
+}
+.a10{
+	width: 43px;
+	height: 43px;
+	background-image: url(../img/jingdong15.png);
+	margin-left: 482px;
+	margin-top: -36px;
+}
+.a11{
+	width: 72px;
+	height: 20px;
+	color: #999999;
+	font-size: 12px;
+	font-family: tahoma;
+	position: relative;
+	top: 50px;
+}/*步骤结束*/
+/*基本信息开始*/
+.z3{
+	width: 400px;
+	height: 302px;
+	margin: 90px 405px 186px 405px;
+	
+}
+.a12{
+	width: 87px;
+	height: 46px;
+	padding: 0px 0px 0px 20px;
+	color: #666666;
+	font-size: 14px;
+	font-family: tahoma;
+	cursor: pointer;
+	border-top: 1px solid #b6b6b6;
+	border-left: 1px solid #b6b6b6;
+	border-right: 1px solid #B6B6B6;
+	border-bottom: 1px solid #b6b6b6;
+}
+.a12:hover{
+	border-color: #666666;
+}
+.a12 select{
+	margin-top: 16px;
+	margin-left: -19px;
+	border: none;
+	outline: medium;
+	
+}
+.a13{
+	width: 190px;
+	height: 19px;
+	padding: 16px 46px 11px 20px;
+	float: left;
+	margin-left: 109px;
+	margin-top: -48px;
+	cursor: pointer;
+	border-top: 1px solid #b6b6b6;
+	border-right: 1px solid #B6B6B6;
+	border-bottom: 1px solid #b6b6b6;
+}
+.a13 input{
+	border: none;
+	outline: medium;
+}
+.a13:hover{
+	border-color: #666666;
+}
+.a14{
+	width: 364px;
+	height: 52px;
+	margin: 40px 0px 0px 0px;
+	border-top: 1px solid #b6b6b6;
+	border-right: 1px solid #B6B6B6;
+	border-left: 1px solid #B6B6B6;
+	border-bottom: 1px solid #b6b6b6;
+	text-align: center;
+	line-height: 52px;
+	font-size: 14px;
+	font-family: tahoma;
+	cursor: pointer;
+}
+.a14:hover{
+	border-color: #666666;
+}
+.a15{
+	width: 364px;
+	height: 54px;
+	background: #e2231a;
+	margin: 60px 0px 0px 0px;
+	text-align: center;
+	line-height: 54px;
+	color: #FFFFFF;
+	cursor: pointer;
+}
+.a16{
+	width: 41px;
+	height: 39px;
+	background-image: url(../img/jingdong16.png);
+	margin-top: 30px;
+}
+.a17{
+	width: 70px;
+	height: 28px;
+	color: #333333;
+	font-size: 14px;
+	font-family: tahoma;
+	margin-left: 50px;
+	margin-top: -30px;
+	cursor: pointer;
+}
+.a17:hover{
+	color: red;
+}
+.a18{
+	width: 41px;
+	height: 39px;
+	background-image: url(../img/jingdong17.png);
+	margin-top: -40px;
+	margin-left: 225px;
+}
+.a19{
+	width: 84px;
+	height: 28px;
+	color: #333333;
+	font-size: 14px;
+	font-family: tahoma;
+	margin-left: 278px;
+	margin-top: -30px;
+	cursor: pointer;
+}
+.a19:hover{
+	color: red;
+}
+.z4{
+	width: 1142px;
+	height: 20.667px;
+	padding: 30px 0px 15px 0px;
+	margin: 0 auto;
+	border-top: 1px solid #e1e1e1;
+	
+}
+.z4 a{
+	width: 51.34px;
+	height: 13.33px;
+	font-size: 12px;
+	font-family: "宋体";
+	color: #666666;
+	margin: 13.33px 16px;
+	text-decoration: none;
+	cursor: pointer;
+}
+.z4 a:hover{
+	text-decoration: underline;
+	color: red;
+}
+.z5{
+	width: 1210px;
+	height: 20.667px;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 14px;
+	font-family: "宋体";
+	color: #666666;
+}
